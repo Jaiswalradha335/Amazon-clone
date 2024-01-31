@@ -21,8 +21,6 @@ Text editor or integrated development environment (IDE) for HTML and CSS (e.g., 
 Installation
 Clone the repository to your local machine:
 
-bash
-Copy code
 git clone https://github.com/your-radha jaiswal/amazon-clone.git
 Navigate to the project directory:
 
