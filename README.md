@@ -1,7 +1,11 @@
-
 Amazon Clone
+
+
+
 Overview
 This is a simple Amazon clone project built using HTML and CSS. It aims to replicate the basic structure and styling of the Amazon website. This project serves as a learning exercise for HTML and CSS development.
+
+
 
  Table of Contents
  Getting Started
