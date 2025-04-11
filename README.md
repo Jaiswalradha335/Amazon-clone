@@ -43,11 +43,3 @@ Push the changes to your fork.
 Submit a pull request with a description of your changes.
 
 
-
-
-Live Link:
-
-
-
-http://127.0.0.1:5500/Amazon-clone-main/Amazon/project/index1.html#Navigation
-
