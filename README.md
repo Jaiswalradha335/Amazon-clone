@@ -25,9 +25,6 @@ Text editor or integrated development environment (IDE) for HTML and CSS (e.g., 
 Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/your-radha jaiswal/amazon-clone.git
-Navigate to the project directory:
-
 Usage
 Open the index.html file in your preferred web browser to view the Amazon clone. Explore the basic functionalities and design elements implemented in HTML and CSS.
 
